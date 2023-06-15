@@ -23,6 +23,6 @@ Con esto el web service estará en funcionamiento, para poder consultar valores 
 1. En la carpeta raíz se encuentra un datosEjemplo.json, el cual si deseas puedes modificar para consultar otra acción u otro rango de fechas.
 
 2. Para poder hacer una consulta al web service con ese json puedes utilizar el comando:
-    curl -X POST -H "Content-Type: application/json" -d @datosEjemplo.json http://localhost:5000/
+- curl -X POST -H "Content-Type: application/json" -d @datosEjemplo.json http://localhost:5000/
 
 3. Este comando te retornará en consola el resultado de la búsqueda.
