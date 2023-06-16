@@ -1,5 +1,9 @@
 # Web Service de Consulta de Acciones
 
+### Integrantes:
+- Sergio Escudero Tabares - 2040801
+- Esteban Andrés Hernandez Cortés - 2042817
+
 Este es un web service que permite consultar información sobre acciones utilizando el método 'POST'.
 
 Instrucciones para ejecutar el web service:
